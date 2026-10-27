@@ -1,0 +1,2 @@
+# excercice
+algorithme de konoha
